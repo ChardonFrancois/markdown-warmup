@@ -6,22 +6,23 @@ body{
 }
 h1{
     text-align: center;
-    color: blueviolet;
+    color: purple;
     
 }
 
 #p1{
-    text-align: center;
-    color: blue;
+    
+    color:mediumslateblue;
 }
 #photo{
     margin-left: 40%;
     border-radius: 30px ;
+    width: 300px;
     
 }
 #sous_photo{
-    color: blueviolet;
-    text-align: center;
+    color: rebeccapurple;
+    
 }
 
 /* tableau div */
@@ -53,4 +54,51 @@ h1{
  #tableau{
      margin-left: 35%;
  }
+ #hobby{
+     
+     color:mediumslateblue;
+ }
+ #firstUl{
+     margin-left: 35%;
+ }
+ #l1 {
+     list-style-type: circle;
+     color: rebeccapurple;
+ }
+ #l2{
+     list-style-type: square;
+     color: mediumslateblue;
+ }
+ #l3{
+     list-style-type: circle;
+     color:rebeccapurple ;
+ }
+ #l4{
+     list-style-type: square;
+     color: mediumslateblue;
+ }
+ #l5{
+     list-style-type: circle;
+     color: rebeccapurple;
+ }
+ #l6{
+     list-style-type: square;
+     color: mediumslateblue;
+ }
  
+ .p{
+     color: rebeccapurple;
+     
+ }
+ #story{
+     
+     color: mediumslateblue;
+ }
+ #h3{
+     
+     color: mediumslateblue;
+ }
+ .a{
+    padding: 17%;
+    text-decoration: none;
+ }
